@@ -1,0 +1,2 @@
+<?php
+	$STATIC_FILES_VERSION = 18;

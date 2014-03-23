@@ -1,0 +1,5 @@
+application/logs/*.php
+captcha/*
+/assets/user_images/*.jpg
+install.php
+*.sublime-*
